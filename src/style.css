@@ -1,0 +1,37 @@
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+    margin: 0; 
+}
+
+#gui {
+    position: relative;
+}
+
+.gui-inner {
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+}
+
+.signature {
+    position: absolute;
+    right: 0.3rem;
+    bottom: 0.3rem;
+}
+
+.square {
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+}
+
+.circle {
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+}

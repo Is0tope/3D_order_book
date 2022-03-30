@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Order Book</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-65NTZ5J8VP"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-110329837-3');
+        gtag('config', 'G-65NTZ5J8VP');
+    </script>
+</head>
+
+<body>
+    <div id="gui">
+        <div class="gui-inner grid grid-flow-row rounded shadow-s bg-white opacity-70 p-2 gap-1">
+            <div>
+                <label>Exchange: </label>
+                <select v-model="currentExchange" class="font-bold">
+                    <option v-for="ex in exchanges"><strong>{{ex}}</strong></option>
+                </select>
+            </div>
+            <div>
+                <label>Symbol: </label>
+                <select v-model="currentSymbol" class="font-bold">
+                    <option v-for="s in symbols"><strong>{{s}}</strong></option>
+                </select>
+            </div>
+            <div>
+                <label>Camera: </label>
+                <select v-model="currentCameraMode" class="font-bold">
+                    <option v-for="c in cameraModes"><strong>{{c}}</strong></option>
+                </select>
+            </div>
+            <div>
+                <label>Cumulative: </label>
+                <input type="checkbox" v-model="isCumulative" class="" style="zoom: 1.5;position:relative;top: 2px"/>
+            </div>
+            <div>
+                <hr class="mb-1"/>
+                <div class="square align-text-top mr-1" style="background-color:#0abc41"></div>bids
+                <div class="square align-text-top ml-1 mr-1" style="background-color:#e63d0f"></div>asks
+                <div class="circle align-text-top ml-1 mr-1" style="background-color:#ebcf34"></div>trades
+            </div>
+        </div>
+    </div>
+    <div class="text-slate-400 signature">
+        <small>Made by Kris Machowski. Read the <a target="_blank" href="https://machow.ski" class="text-blue-500 underline">blog post</a> / <a target="_blank" href="https://github.com/Is0tope/3D_order_book" class="text-blue-500 underline">source code</a>.</small>
+    </div>
+</body>
+
+</html>
