@@ -8,6 +8,9 @@ export class InstrumentRepository {
     private _lookup: Map<string,Instrument[]> = new Map()
 
     constructor() {
+        // This should really be done dynamically on initialisation by the front end. However, due to certain exchanges having
+        // a CORS policy on their instruments endpoint, a proxy would be required, and I felt this would have added more
+        // complexity to a simple demo. 
         this._lookup.set('FTX',[
             {'symbol': '1INCH-PERP', 'tickSize': 0.0001},
             {'symbol': 'AAVE-PERP', 'tickSize': 0.01},
