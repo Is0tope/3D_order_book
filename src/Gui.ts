@@ -13,7 +13,7 @@ export function createGUI(instrumentRepository: InstrumentRepository, feedManage
                 currentExchange: initalExchange,
                 symbols: instrumentRepository.getExchangeInstruments(initalExchange).map((ins: Instrument) => ins.symbol),
                 currentSymbol: initialSymbol,
-                isCumulative: false,
+                isCumulative: true,
                 cameraModes: [CameraMode.Front,CameraMode.XWing,CameraMode.FPS],
                 currentCameraMode: CameraMode.Front
             }
