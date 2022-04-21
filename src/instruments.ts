@@ -413,7 +413,7 @@ export class InstrumentRepository {
         ])
 
         this._lookup.set('Kraken',[
-            {'symbol': 'BTC/USD', 'tickSize': 1}
+            {'symbol': 'BTC/USD', 'tickSize': 0.1},
         ])
     }
 
