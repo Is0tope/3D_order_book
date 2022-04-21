@@ -16,7 +16,7 @@ function roundToTick(tickSize: number, price: number): number {
 
 // Surely must be a better mathematical way?
 function getPrecision(num: number) {
-    const strs = num.toString().split('.')
+    const strs = num.toLocaleString('fullwide', { useGrouping: false, maximumSignificantDigits: 21 }).split('.')
     if(strs.length !== 2) return 0
     return strs[1].length
 }
