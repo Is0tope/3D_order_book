@@ -14,11 +14,14 @@ function roundToTick(tickSize: number, price: number): number {
     return tickSize * Math.round(price / tickSize)
 }
 
-// Surely must be a better mathematical way?
-function getPrecision(num: number) {
-    const strs = num.toString().split('.')
-    if(strs.length !== 2) return 0
-    return strs[1].length
+export function getPrecision(num: number) {
+    // e.g.
+    // 0.0001 => -4
+    // 100 => 2
+    const decs = Math.floor(Math.log10(num))
+
+    const precision = Math.max(-decs, 0)
+    return precision
 }
 
 function precisionRound(num: number, precision: number) {
