@@ -15,13 +15,14 @@ function roundToTick(tickSize: number, price: number): number {
 }
 
 export function getPrecision(num: number) {
-    // e.g.
-    // 0.0001 => -4
-    // 100 => 2
-    const decs = Math.floor(Math.log10(num))
+    // 0.001 => 3
+    // 0.00025 => 5
+    // 100 => 0
+    // 2.5e-07 => 8
 
-    const precision = Math.max(-decs, 0)
-    return precision
+    const strs = num.toFixed(12).replace(/0*$/, '').split('.')
+    if(strs.length !== 2) return 0
+    return strs[1].length
 }
 
 function precisionRound(num: number, precision: number) {
