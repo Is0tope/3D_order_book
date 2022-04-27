@@ -47,22 +47,12 @@ export default class KrakenFeedHandler extends FeedHandler {
     handleOrderBookEvent(data: any) {
         const isSnapshot = "as" in data || "bs" in data;
 
-        if (isSnapshot) {
-            const obSnapshotEvent: OrderBookEvent = {
-                action: OrderBookAction.Partial,
-                bids: (data.bs ?? []).map((x: any) => [Number.parseFloat(x[0]),Number.parseFloat(x[1])]),
-                asks: (data.as ?? []).map((x: any) => [Number.parseFloat(x[0]),Number.parseFloat(x[1])])
-            }
-            this.publishOrderBookEvent(obSnapshotEvent)
+        const obSnapshotEvent: OrderBookEvent = {
+            action: isSnapshot ? OrderBookAction.Partial : OrderBookAction.Update,
+            bids: (data.b ?? data.bs ?? []).map((x: any) => [Number.parseFloat(x[0]),Number.parseFloat(x[1])]),
+            asks: (data.a ?? data.as ?? []).map((x: any) => [Number.parseFloat(x[0]),Number.parseFloat(x[1])])
         }
-        else {
-            const obUpdateEvent: OrderBookEvent = {
-                action: OrderBookAction.Update,
-                bids: (data.b ?? []).map((x: any) => [Number.parseFloat(x[0]),Number.parseFloat(x[1])]),
-                asks: (data.a ?? []).map((x: any) => [Number.parseFloat(x[0]),Number.parseFloat(x[1])])
-            }
-            this.publishOrderBookEvent(obUpdateEvent)
-        }
+        this.publishOrderBookEvent(obSnapshotEvent)
     }
 
     handleTradeEvent(data: any[]) {
