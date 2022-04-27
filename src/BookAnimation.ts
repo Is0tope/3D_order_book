@@ -95,7 +95,7 @@ export class BookAnimation {
         this._tickSize = 0
         this._precision = 0
         this._depth = depth
-        this._cumulative = false
+        this._cumulative = true
         this._cameraXwingOffset = Math.round(this._depth / 2)
         
         this._cameraFPSControls = new FirstPersonControls(this._camera,this._renderer.domElement)

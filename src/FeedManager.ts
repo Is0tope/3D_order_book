@@ -2,6 +2,7 @@ import BinanceFeedHandler from './feedhandlers/BinanceFeedHandler'
 import { BitMEXFeedhandler } from './feedhandlers/BitMEXFeedHandler'
 import { FeedHandler, OrderBookEvent, OrderBookEventHandler, TradeEvent, TradeEventHandler } from './feedhandlers/Feedhandler'
 import { FTXFeedHandler } from './feedhandlers/FTXFeedHandler'
+import KrakenFeedHandler from './feedhandlers/KrakenFeedHandler'
 import MangoFeedHandler from './feedhandlers/MangoFeedhandler'
 
 export class FeedManager {
@@ -17,6 +18,7 @@ export class FeedManager {
         this.registerFeedhandler(new MangoFeedHandler())
         this.registerFeedhandler(new BitMEXFeedhandler())
         this.registerFeedhandler(new BinanceFeedHandler())
+        this.registerFeedhandler(new KrakenFeedHandler())
     }
 
     private registerFeedhandler(fh: FeedHandler) {

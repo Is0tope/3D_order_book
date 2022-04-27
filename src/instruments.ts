@@ -411,6 +411,10 @@ export class InstrumentRepository {
             {'symbol': 'APEUSDT', 'tickSize': 0.001},
             {'symbol': 'BNXUSDT', 'tickSize': 0.01}
         ])
+
+        this._lookup.set('Kraken',[
+            {'symbol': 'BTC/USD', 'tickSize': 0.1},
+        ])
     }
 
     getExchanges(): string[] {

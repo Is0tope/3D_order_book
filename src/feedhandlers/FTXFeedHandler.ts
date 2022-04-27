@@ -1,4 +1,4 @@
-import { L2Book, OrderBookAction, Side } from '../L2Book'
+import { OrderBookAction, Side } from '../L2Book'
 import { FeedHandler, OrderBookEvent, TradeEvent } from './Feedhandler'
 
 export class FTXFeedHandler extends FeedHandler{
