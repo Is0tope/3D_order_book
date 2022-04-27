@@ -15,12 +15,7 @@ function roundToTick(tickSize: number, price: number): number {
 }
 
 export function getPrecision(num: number) {
-    // 0.001 => 3
-    // 0.00025 => 5
-    // 100 => 0
-    // 2.5e-07 => 8
-
-    const strs = num.toFixed(12).replace(/0*$/, '').split('.')
+    const strs = num.toLocaleString('fullwide', { useGrouping: false, maximumSignificantDigits: 21 }).split('.')
     if(strs.length !== 2) return 0
     return strs[1].length
 }
