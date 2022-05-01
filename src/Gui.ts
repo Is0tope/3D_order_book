@@ -9,6 +9,7 @@ export function createGUI(instrumentRepository: InstrumentRepository, feedManage
     const gui = createApp({
         data() {
             return {
+                expanded: true,
                 exchanges: instrumentRepository.getExchanges(),
                 currentExchange: initalExchange,
                 symbols: instrumentRepository.getExchangeInstruments(initalExchange).map((ins: Instrument) => ins.symbol),
@@ -39,6 +40,15 @@ export function createGUI(instrumentRepository: InstrumentRepository, feedManage
             },
             currentCameraMode(newCameraMode) {
                 animation.setCameraMode(newCameraMode)
+            }
+        },
+
+        methods: {
+            expand() {
+                this.expanded = true
+            },
+            close() {
+                this.expanded = false
             }
         }
     })

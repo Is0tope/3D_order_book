@@ -1,6 +1,7 @@
-import { BoxBufferGeometry, BoxGeometry, Camera, Color, InstancedMesh, Material, MeshLambertMaterial, Object3D, Renderer, Scene } from 'three'
+import { BoxBufferGeometry, BoxGeometry, Camera, Color, InstancedMesh, Material, MeshLambertMaterial, Object3D, Renderer, Scene, Vector3 } from 'three'
 import SpriteText from 'three-spritetext';
 import { FirstPersonControls } from 'three/examples/jsm/controls/FirstPersonControls'
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 import { TradeEvent } from './feedhandlers/Feedhandler'
 import { L2Book, Side } from './L2Book'
 import { TradeIndicator } from './TradeIndicator'
@@ -85,6 +86,7 @@ export class BookAnimation {
     private _cameraXwingOffset = 0
     private _xwingSmoothingFactor = 5
     private _cameraFPSControls: FirstPersonControls
+    private _cameraOrbitControls: OrbitControls
 
     constructor(scene: Scene, rederer: Renderer, camera: Camera, book: L2Book, numTicks: number, depth: number) {
         this._scene = scene
@@ -102,6 +104,11 @@ export class BookAnimation {
         this._cameraFPSControls.enabled = false
         this._cameraFPSControls.lookSpeed = 0.1;
         this._cameraFPSControls.movementSpeed = 40;
+
+        this._cameraOrbitControls = new OrbitControls(this._camera,this._renderer.domElement)
+        this._cameraOrbitControls.enablePan = false
+        this._cameraOrbitControls.enableRotate = false
+        this._cameraOrbitControls.enableZoom = true
     }
 
     setTickSize(tickSize: number) {
@@ -353,9 +360,9 @@ export class BookAnimation {
             this._camera.position.x = 0
             this._camera.position.y = 40
             this._camera.position.z = (this._depth * this._levelDepth) / 14
-            this._camera.lookAt(0,0,-this._depth / 6)
             this._cameraFPSControls.enabled = false
-
+            this._cameraOrbitControls.enabled = true
+            this._cameraOrbitControls.target = new Vector3(0,0,-this._depth / 6)
         }
         if(this._cameraMode === CameraMode.XWing) {
             this._camera.position.x = 0
@@ -363,14 +370,21 @@ export class BookAnimation {
             this._camera.position.z = -this._cameraXwingOffset * this._levelDepth
             this._camera.lookAt(0,0,0)
             this._cameraFPSControls.enabled = false
+            this._cameraOrbitControls.enabled = false
+
 
         }
         if(this._cameraMode === CameraMode.FPS) {
             this._cameraFPSControls.enabled = true
+            this._cameraOrbitControls.enabled = false
+
         }
     }
 
     updateCamera(delta: number) {
+        if(this._cameraMode === CameraMode.Front) {
+            this._cameraOrbitControls.update()
+        }
         if(this._cameraMode === CameraMode.XWing) {
             const midPrice = this._priceHistory[0]
             const cameraPrice = indexWindowAverage(this._priceHistory,this._cameraXwingOffset,this._xwingSmoothingFactor)
