@@ -38,6 +38,8 @@ export default class BinanceFeedHandler extends FeedHandler{
             method: "SUBSCRIBE",
             params: [
                 `${this.getSymbol().toLowerCase()}@depth@100ms`,
+                `${this.getSymbol().toLowerCase()}@depth`,
+                `${this.getSymbol().toLowerCase()}@bookTicker`,
                 `${this.getSymbol().toLowerCase()}@trade`
             ]
         })
@@ -89,9 +91,20 @@ export default class BinanceFeedHandler extends FeedHandler{
         }
     }
 
+    handleTickerMessage(msg: any) {
+        if(!this._hasReceivedSOW) return
+        this.publishTickerEvent({
+            bid: [Number.parseFloat(msg.data.b), Number.parseFloat(msg.data.B)],
+            ask: [Number.parseFloat(msg.data.a), Number.parseFloat(msg.data.A)],
+        });
+    }
+
     onMessage(event: MessageEvent): void {
         const msg = JSON.parse(event.data as string)
         if(!('stream' in msg)) return
+        if(!('e' in msg.data)) {
+            this.handleTickerMessage(msg);
+        }
         if(msg.data.e === 'depthUpdate') {
             this.handleDepthUpdateMessage(msg)
         }

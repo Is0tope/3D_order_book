@@ -3,12 +3,18 @@ import { OrderBookAction, PriceLevel, Side } from '../L2Book'
 
 export type OrderBookEventHandler = (event: OrderBookEvent) => void
 export type TradeEventHandler = (event: TradeEvent) => void
+export type TickerEventHandler = (event: TickerEvent) => void
 
 export interface BaseFeedHandler {
     onOrderBookEvent: (fn: OrderBookEventHandler) => void
     onTradeEvent: (fn: TradeEventHandler) => void
     connect: (symbol: string) => void
     disconnect: () => void
+}
+
+export interface TickerEvent {
+    bid: PriceLevel,
+    ask: PriceLevel,
 }
 
 export interface OrderBookEvent {
@@ -31,6 +37,7 @@ export class FeedHandler implements BaseFeedHandler{
     private _connected: boolean
     private _orderBookEventHandlers: OrderBookEventHandler[] = []
     private _tradeEventHandlers: TradeEventHandler[] = []
+    private _tickerEventHandlers: TickerEventHandler[] = []
 
     constructor(exchange: string, wsUrl: string) {
         this._url = wsUrl
@@ -62,6 +69,10 @@ export class FeedHandler implements BaseFeedHandler{
 
     onTradeEvent(fn: TradeEventHandler) {
         this._tradeEventHandlers.push(fn)
+    }
+
+    onTickerEvent(fn: TickerEventHandler) {
+        this._tickerEventHandlers.push(fn)
     }
 
     getExchange(): string {
@@ -101,5 +112,9 @@ export class FeedHandler implements BaseFeedHandler{
 
     protected publishTradeEvent(event: TradeEvent) {
         this._tradeEventHandlers.forEach((fn) => fn(event))
+    }
+
+    protected publishTickerEvent(event: TickerEvent) {
+        this._tickerEventHandlers.forEach((fn) => fn(event))
     }
 }
