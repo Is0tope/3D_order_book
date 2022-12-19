@@ -2,7 +2,7 @@ import './style.css'
 import { BookAnimation } from './BookAnimation'
 import Stats from 'three/examples/jsm/libs/stats.module'
 import { L2Book } from './L2Book'
-import { OrderBookEvent, TradeEvent } from './feedhandlers/Feedhandler'
+import { OrderBookEvent, TickerEvent, TradeEvent } from './feedhandlers/Feedhandler'
 import { FeedManager } from './FeedManager'
 import { InstrumentRepository } from './instruments'
 import { createGUI } from './Gui'
@@ -64,6 +64,10 @@ feedManager.onTradeEvent((trade: TradeEvent) => {
 // Feed order book events into order book
 feedManager.onOrderBookEvent((event: OrderBookEvent) => {
     book.applyOrderBookEvent(event)
+})
+
+feedManager.onTickerEvent((event: TickerEvent) => {
+    book.applyTickerEvent(event)
 })
 
 // Update the animation periodically
