@@ -1,5 +1,3 @@
-import { assert } from '@vue/compiler-core'
-import { mapLinear } from 'three/src/math/MathUtils'
 import { OrderBookEvent, TickerEvent } from './feedhandlers/Feedhandler'
 
 export enum Side {
@@ -73,7 +71,6 @@ export class L2Book {
                 asks[asks.length-1][1] = x.ask[1]
             }
         })
-        //console.log(bids)
         this._bids_with_tickers.clear()
         this._asks_with_tickers.clear()
         bids.forEach((x: [number,number]) => this._bids_with_tickers.set(x[0], x[1]))
