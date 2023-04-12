@@ -11,8 +11,8 @@ import { Clock, Color, Fog, HemisphereLight, PerspectiveCamera, PointLight, Scen
 
 // How often to update the animation
 const UPDATE_PERIOD_MS = 50
-const INITIAL_EXCHANGE = 'FTX'
-const INITIAL_SYMBOL = 'BTC-PERP'
+const INITIAL_EXCHANGE = 'BitMEX'
+const INITIAL_SYMBOL = 'XBTUSD'
 const MAX_DEPTH = 400
 const NUM_TICKS_PER_SIDE = 200
 
@@ -96,7 +96,7 @@ const gui = createGUI(
     feedManager,
     animation,
     book,
-    'FTX',
-    'BTC-PERP'
+    INITIAL_EXCHANGE,
+    INITIAL_SYMBOL
 )
 gui.mount('#gui')

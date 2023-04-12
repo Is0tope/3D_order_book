@@ -2,16 +2,6 @@ import { InstrumentRepository } from '../instruments'
 import { OrderBookAction, Side } from '../L2Book'
 import { FeedHandler, OrderBookEvent, TradeEvent } from './Feedhandler'
 
-interface LegacyTickMap {
-    [key: string]: number
-}
-const LEGACY_TICKS: LegacyTickMap = {
-    XBTUSD: 0.01
-};
-function idToPrice(symbol: string, id: number, tickSize: number, symbolIndex: number) {
-    return (100000000 * symbolIndex - id) * (LEGACY_TICKS[symbol] || tickSize);
-}
-
 export class BitMEXFeedhandler extends FeedHandler{
     private _instruments = new InstrumentRepository()
     constructor() {
@@ -42,7 +32,7 @@ export class BitMEXFeedhandler extends FeedHandler{
         const instrument = this._instruments.getExchangeInstrument(this.getExchange(),this.getSymbol())
         for(const level of data.data) {
             const side = level.side == 'Buy' ? Side.Buy : Side.Sell
-            const price = idToPrice(this.getSymbol(),level.id,instrument.tickSize,instrument.symbolIndex!)
+            const price = level.price
             const size = action === 'delete' ? 0 : level.size
             side === Side.Buy ? bids.push([price,size]) : asks.push([price,size])
         }

@@ -1,0 +1,8424 @@
+{
+  "BitMEX": [
+    {
+      "symbol": "ADAUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ADAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "APE_USDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APEUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APTUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APTUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ARBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ARBUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AVAXUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AXS_USDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AXSUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BCHUSD",
+      "tickSize": 0.05
+    },
+    {
+      "symbol": "BCHUSDT",
+      "tickSize": 0.05
+    },
+    {
+      "symbol": "BLURUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BLURUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BMEX_USDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BMEXUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BMEXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BNBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BNBUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "CROUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "CROUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOGEUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOTUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DOTUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EOSUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ETH_USDT",
+      "tickSize": 0.05
+    },
+    {
+      "symbol": "ETH_XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ETHUSD",
+      "tickSize": 0.05
+    },
+    {
+      "symbol": "ETHUSD_ETH",
+      "tickSize": 0.05
+    },
+    {
+      "symbol": "ETHUSDT",
+      "tickSize": 0.05
+    },
+    {
+      "symbol": "FLRUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FLRUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMTUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMXUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GMXUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KLAYUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "KLAYUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LINK_USDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINKUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LTCUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTCUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LUNAUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LUNAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATIC_USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATICUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "NEARUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SOL_USDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOLUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOLUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TRX_USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "UNI_USDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "USDTUSDC",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XBT_USDT",
+      "tickSize": 0.5
+    },
+    {
+      "symbol": "XBTEUR",
+      "tickSize": 0.5
+    },
+    {
+      "symbol": "XBTUSD",
+      "tickSize": 0.5
+    },
+    {
+      "symbol": "XBTUSDT",
+      "tickSize": 0.5
+    },
+    {
+      "symbol": "XRPUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XRPUSDT",
+      "tickSize": 0.0001
+    }
+  ],
+  "Binance": [
+    {
+      "symbol": "1INCHBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "1INCHBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "1INCHUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AAVEBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AAVEBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "AAVEBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "AAVEETH",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ACABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ACABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ACAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ACHBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ACHBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ACHUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ACMBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ACMUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ADAAUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ADABIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "ADABNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ADABRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ADABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ADABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ADADOWNUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ADAETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ADAEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ADAGBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ADARUB",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ADATRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ADAUPUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ADAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ADXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ADXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ADXETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ADXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AERGOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "AERGOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AGIXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "AGIXBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AGIXTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AGIXUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AGLDBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "AGLDBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AGLDUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AKROBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AKROUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ALCXBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ALCXBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ALCXUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ALGOBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ALGOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ALGOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALGOETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ALGORUB",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ALGOTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ALGOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALICEBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ALICEBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ALICETRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ALICEUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ALPACABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ALPACABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALPACAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALPHABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ALPHABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALPHAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALPINEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ALPINEBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALPINEEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALPINETRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ALPINEUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AMBBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "AMBBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AMBUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AMPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "AMPBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AMPUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ANKRBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ANKRBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ANKRBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ANKRTRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ANKRUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ANTBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ANTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ANTBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ANTUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APEAUD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APEBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "APEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "APEBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APEETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "APEEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APETRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "APEUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "API3BTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "API3BUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "API3TRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "API3USDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APTBRL",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "APTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "APTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "APTETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "APTEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "APTTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "APTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARBBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ARBEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ARBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ARBTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ARBTUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ARBUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARDRBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ARDRUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARKBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARPABNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ARPABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ARPABUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ARPAETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ARPARUB",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ARPATRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARPAUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ARUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ASRBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ASRUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ASTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ASTRBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ASTRBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ASTRUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ATABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATMBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ATMUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ATOMBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ATOMBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ATOMBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ATOMETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ATOMEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ATOMTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AUCTIONBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "AUCTIONBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AUCTIONUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AUDBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AUDIOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "AUDIOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AUDIOTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AUDIOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AUDUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AUTOBTC",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AUTOBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "AUTOUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "AVABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "AVABUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AVAUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AVAXAUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AVAXBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AVAXBRL",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "AVAXBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "AVAXBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AVAXETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AVAXEUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AVAXTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AXSAUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AXSBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "AXSBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AXSBRL",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AXSBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "AXSBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AXSETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "AXSTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "AXSUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BADGERBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BADGERBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BADGERUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BAKEBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "BAKEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BAKEBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BAKEUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BALBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BALBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BALUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BANDBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BANDBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BANDUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BARBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BARUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BATBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BATBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BATETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BATUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BCHBNB",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BCHBTC",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BCHBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BCHEUR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BCHUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BDOTDOT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BELBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "BELBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BELBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BELETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BELTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BELUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BETABNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BETABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BETABUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BETAETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BETAUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BETHBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BETHETH",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BETHUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BICOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BICOBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BICOUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BIFIBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BIFIUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BLZBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BLZBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BLZUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BNBAUD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNBBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BNBBRL",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BNBBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "BNBBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNBDAI",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNBDOWNUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BNBETH",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BNBEUR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNBGBP",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNBRUB",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BNBTRY",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BNBTUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNBUAH",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BNBUPUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BNBUSDC",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNBUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "BNTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BNTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BNTETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BNTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BNXBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "BNXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BNXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BNXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BONDBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BONDBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BONDUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BSWBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BSWBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BSWTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BSWUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BTCAUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTCBRL",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTCBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCDAI",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCDOWNUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "BTCEUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCGBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCPLN",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTCRON",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTCRUB",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTCTRY",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTCTUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCUAH",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTCUPUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BTCUSDC",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BTCZAR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BTSUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BTTCBUSD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BTTCTRY",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BTTCUSDT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BURGERBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "BURGERBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BURGERUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BUSDBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BUSDBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BUSDDAI",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BUSDPLN",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BUSDRON",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BUSDRUB",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BUSDTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BUSDUAH",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BUSDUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BUSDVAI",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BUSDZAR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "C98BTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "C98BUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "C98USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CAKEBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "CAKEBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "CAKEBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CAKEUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CELOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CELOBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CELOUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CELRBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CELRBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CELRBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "CELRUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "CFXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CFXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CFXTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CFXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHESSBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CHESSBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHESSUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHRBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "CHRBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CHRBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHRETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "CHRUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHZBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "CHZBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CHZBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CHZBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHZEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHZGBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHZTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CHZUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CITYBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "CITYBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "CITYUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "CKBBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "CKBUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "CLVBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CLVBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "CLVUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "COCOSBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "COCOSBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "COCOSTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "COCOSUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "COMPBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "COMPBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "COMPUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "COSBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "COSBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "COSBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "COSTRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "COSUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "COTIBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "COTIBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "COTIBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "COTIUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CREAMBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "CRVBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CRVBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CRVETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CRVUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CTKBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CTKBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CTKBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CTKUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CTSIBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CTSIBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CTSIBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CTSIUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CTXCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "CTXCBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CTXCUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CVCBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CVPBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CVPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CVXBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "CVXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CVXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DARBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DARBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DARBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DAREUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DARTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "DARUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DASHBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DASHBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DASHBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "DASHETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DASHUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "DATABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DATABUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DATAUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DCRBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DCRUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "DEGOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DEGOBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DEGOUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DENTBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DENTETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DENTTRY",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DENTUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DEXEBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DEXEETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DFBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DFUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DGBBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DGBBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DGBUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DIABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DIABUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DIAUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DOCKBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DOCKBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOCKUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DODOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DODOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DODOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DOGEAUD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOGEBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "DOGEBRL",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DOGEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DOGEBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOGEEUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOGEGBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOGETRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOTAUD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DOTBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DOTBRL",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "DOTBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "DOTBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DOTETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DOTEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DOTGBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DOTRUB",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "DOTTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "DOTUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DREPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DREPBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DREPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DUSKBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DUSKBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DUSKUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DYDXBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DYDXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DYDXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DYDXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EGLDBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "EGLDBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "EGLDBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "EGLDETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "EGLDEUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "EGLDUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ELFBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ELFBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ELFETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ELFUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ENJBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ENJBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ENJBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ENJETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ENJEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ENJTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ENJUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ENSBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ENSBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ENSBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ENSTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ENSUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "EOSBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "EOSBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "EOSBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EOSETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "EOSEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EOSTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "EOSUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EPXBUSD",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "EPXUSDT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ERNBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ERNUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ETCBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ETCBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ETCBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETCETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ETCEUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETCTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ETCUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHAUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "ETHBRL",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ETHBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHDAI",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHDOWNUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ETHEUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHGBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHPLN",
+      "tickSize": 1
+    },
+    {
+      "symbol": "ETHRUB",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ETHTRY",
+      "tickSize": 1
+    },
+    {
+      "symbol": "ETHTUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHUAH",
+      "tickSize": 1
+    },
+    {
+      "symbol": "ETHUPUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ETHUSDC",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETHZAR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "EURBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "EURUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FARMBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "FARMBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "FARMUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "FETBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "FETBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FETBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FETTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FETUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FIDABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FIDABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FIDAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FILBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "FILBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "FILBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FILETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "FILTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "FILUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FIOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FIOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FIOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FIROBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "FIROBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FIROUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FISBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FISBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FISBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FISUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FLMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FLMUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FLOWBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "FLOWBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FLOWBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FLOWUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FLUXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FLUXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FLUXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FORBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FORBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "FORTHBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "FORTHBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "FORTHUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "FORUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "FRONTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FRONTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FRONTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FTMAUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FTMBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "FTMBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FTMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FTMBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FTMETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "FTMEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FTMTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FTMUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FTTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FUNBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FUNETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FUNUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "FXSBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FXSBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FXSUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GALAAUD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GALABNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GALABRL",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GALABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GALABUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GALAETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GALAEUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GALATRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GALAUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GALBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "GALBRL",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GALBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GALBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GALETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "GALEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GALTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "GALUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GASBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "GASBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GASUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GBPBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GBPUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GFTBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GHSTBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GHSTUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GLMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GLMBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GLMRBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "GLMRBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GLMRBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GLMRUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GLMUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMTBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "GMTBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GMTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GMTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMTETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "GMTEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMTGBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMTTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GMTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GMXBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "GMXBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GMXUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GNOUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "GNSBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "GNSUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GRTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GRTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GRTETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "GRTEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GRTTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GRTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GTCBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "GTCBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GTCUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "HARDBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "HARDBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "HARDBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HARDUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HBARBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "HBARBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "HBARBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HBARUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HFTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "HFTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HFTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HIFIETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "HIFIUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HIGHBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "HIGHBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "HIGHBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "HIGHUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "HIVEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "HIVEBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HIVEUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HOOKBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "HOOKBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "HOOKBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HOOKUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HOTBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "HOTETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "HOTTRY",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "HOTUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ICPBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ICPBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ICPBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ICPETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ICPEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ICPTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ICPUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ICXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ICXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ICXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "IDBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "IDBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IDEUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IDEXBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "IDEXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IDEXBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IDEXUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IDTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "IDTUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IDUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ILVBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ILVBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ILVBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ILVUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "IMXBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "IMXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IMXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "IMXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "INJBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "INJBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "INJBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "INJTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "INJUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "IOSTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IOSTBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IOSTETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IOSTUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IOTABNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "IOTABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IOTABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "IOTAETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "IOTAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "IOTXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IOTXBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IOTXETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IOTXUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IQBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IRISBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IRISUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "JASMYBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "JASMYBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "JASMYBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "JASMYETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "JASMYEUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "JASMYTRY",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "JASMYUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "JOEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "JOEBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "JOEUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "JSTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "JSTBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "JSTUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "JUVBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "JUVUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KAVABNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KAVABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KAVABUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KAVAETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "KAVAUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KDABTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "KDABUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KDAUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KEYBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KEYUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KLAYBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KLAYBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KLAYBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KLAYUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KMDBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KMDUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KNCBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KNCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KNCBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KNCUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KP3RBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KP3RBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KP3RUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KSMBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KSMBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KSMUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LAZIOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LAZIOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LAZIOEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LAZIOTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LAZIOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LDOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LDOBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LDOTUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LDOUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LEVERBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LEVERUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LINABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LINABUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LINAUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LINKAUD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINKBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LINKBRL",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LINKBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "LINKBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINKETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LINKEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINKGBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINKTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "LINKUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LITBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LITBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LITETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "LITUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LOKABNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "LOKABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LOKABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LOKAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LOOMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LOOMBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LOOMUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LPTBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LPTBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "LPTBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LPTUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LQTYBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LQTYUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LRCBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LRCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LRCBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LRCETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LRCTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LRCUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LSKBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LSKBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LSKETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LSKUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LTCBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LTCBRL",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "LTCBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LTCBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTCETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LTCEUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTCGBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTCRUB",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "LTCUAH",
+      "tickSize": 1
+    },
+    {
+      "symbol": "LTCUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LTOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LTOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LUNABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LUNATRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LUNAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LUNCBUSD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LUNCUSDT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MAGICBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MAGICBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MAGICUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MANABRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MANABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MANABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MANAETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "MANATRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MANAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MASKBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MASKBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MASKUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MATICAUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATICBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "MATICBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MATICBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MATICBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MATICBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATICETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "MATICEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATICGBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATICRUB",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MATICTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MATICTUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATICUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MBLBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MBLUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MBOXBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MBOXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MBOXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MBOXTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MBOXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MCBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MCBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MCUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MDTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MDTBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MDTUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MDXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MDXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MDXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MINABNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MINABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MINABUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MINATRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MINAUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MKRBTC",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MKRBUSD",
+      "tickSize": 1
+    },
+    {
+      "symbol": "MKRUSDT",
+      "tickSize": 1
+    },
+    {
+      "symbol": "MLNBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MLNBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MLNUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MOBBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MOBBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MOBUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MOVRBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "MOVRBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MOVRUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MTLBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MTLBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MTLETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "MTLUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MULTIBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "MULTIBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MULTIUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NBTBIDR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "NBTUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "NEARBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NEARBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "NEARBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NEARETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NEAREUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NEARRUB",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "NEARTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NEARUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NEBLBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "NEBLBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NEBLUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NEOBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "NEOBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NEOBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NEOETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "NEORUB",
+      "tickSize": 1
+    },
+    {
+      "symbol": "NEOTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "NEOUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NEXOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "NEXOBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NEXOUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NKNBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "NKNBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "NKNUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "NMRBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NMRBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NMRUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NULSBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "NULSBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "NULSUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OAXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OAXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OCEANBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "OCEANBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OCEANBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OCEANUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OGBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "OGBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OGNBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OGNBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OGNUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OGUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OMBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OMGBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "OMGBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OMGUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OMUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ONEBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ONEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ONEBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ONEETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ONETRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ONEUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ONGBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ONGUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ONTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ONTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ONTTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ONTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OOKIBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "OOKIUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "OPBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "OPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OPBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OPETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "OPEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OPTUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OPUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ORNBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ORNBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ORNUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OSMOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OSMOBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OSMOUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OXTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OXTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OXTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PAXGBNB",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "PAXGBTC",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PAXGBUSD",
+      "tickSize": 1
+    },
+    {
+      "symbol": "PAXGUSDT",
+      "tickSize": 1
+    },
+    {
+      "symbol": "PEOPLEBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PEOPLEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PEOPLEBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PEOPLEETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PEOPLEUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PERLUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PERPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PERPBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PERPUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PHABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PHABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PHAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PHBBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PHBBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PHBUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PIVXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PLABTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PLABUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PLAUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PNTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POLSBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "POLSBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "POLSBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "POLSUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "POLYXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "POLYXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POLYXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PONDBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PONDBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PONDUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "PORTOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "PORTOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PORTOEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PORTOTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PORTOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POWRBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "POWRBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POWRETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "POWRUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PROMBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "PROMBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PROMUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PROSBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PROSETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "PROSUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PSGBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "PSGBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PSGUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PUNDIXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "PUNDIXETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "PUNDIXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "PYRBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "PYRBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PYRUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "QIBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "QIBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "QIUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "QKCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "QKCBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "QKCETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "QKCUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "QLCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "QNTBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "QNTBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "QNTBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "QNTUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "QTUMBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "QTUMBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "QTUMETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "QTUMUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "QUICKBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "QUICKBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "QUICKUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "RADBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "RADBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "RADBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RADUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RAREBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "RAREBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RAREUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RAYBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "RAYBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RAYUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RDNTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "RDNTTUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RDNTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "REEFBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "REEFTRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "REEFUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "REIBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "REIBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "REIUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "RENBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "RENBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "RENUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "REQBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "REQBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "REQUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RIFBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "RIFUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RLCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "RLCETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "RLCUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RNDRBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "RNDRBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RNDRUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ROSEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ROSEBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ROSEETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ROSETRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ROSEUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "RPLBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "RPLBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "RPLUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "RSRBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "RSRBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "RSRUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "RUNEBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "RUNEBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "RUNEBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RUNEETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "RUNEEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RUNEGBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RUNEUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RVNBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "RVNBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "RVNTRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RVNUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SANDAUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SANDBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SANDBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SANDBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SANDBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SANDETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SANDTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SANDUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SANTOSBRL",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SANTOSBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SANTOSBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SANTOSTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SANTOSUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SCBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SCETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SCRTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SCRTBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SCRTETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SCRTUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SCUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SFPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SFPBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SFPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SHIBAUD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SHIBBRL",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SHIBBUSD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SHIBDOGE",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SHIBEUR",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SHIBTRY",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SHIBUSDT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SKLBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SKLBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SKLUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SLPBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SLPETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SLPTRY",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SLPUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SNMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SNMBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SNTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SNTBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SNTETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SNXBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SNXBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SNXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SNXETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SNXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SOLAUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOLBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "SOLBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SOLBRL",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "SOLBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SOLBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOLETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SOLEUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOLGBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOLRUB",
+      "tickSize": 1
+    },
+    {
+      "symbol": "SOLTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "SOLTUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOLUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SPELLBUSD",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SPELLTRY",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SPELLUSDT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SRMBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SSVBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SSVBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SSVETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SSVTUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SSVUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "STEEMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STEEMBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STEEMETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "STEEMUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STGBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STGBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STGUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STMXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STMXBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "STMXUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "STORJBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STORJBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STORJTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "STORJUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STPTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STPTBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "STPTUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "STRAXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STRAXBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "STRAXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "STXBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "STXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STXTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "STXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SUNBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SUNUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SUPERBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SUPERBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SUPERUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SUSHIBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SUSHIBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SUSHIBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SUSHIUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SXPBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SXPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SXPBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SXPTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SXPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SYNBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SYNUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SYSBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SYSBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SYSUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TFUELBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TFUELBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TFUELUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "THETABNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "THETABTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "THETABUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "THETAETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "THETAEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "THETAUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "TKOBIDR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TKOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TKOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TKOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TLMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TLMBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TLMTRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TLMUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TOMOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TOMOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TOMOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TORNBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TRBBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "TRBBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TRBUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TROYBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "TROYUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "TRUBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TRUUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TRXBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "TRXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TRXBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TRXETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TRXEUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TRXTRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TRXUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TRXXRP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TUSDUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TVKBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TVKBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TVKUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TWTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "TWTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TWTTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TWTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "UFTBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "UFTETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "UFTUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "UMABTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "UMABUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UMATRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "UMAUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNFIBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "UNFIBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNFIETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "UNFIUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNIBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "UNIBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "UNIBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNIETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "UNIEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNIUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "USDCUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDTBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "USDTBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "USDTDAI",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDTIDRT",
+      "tickSize": 1
+    },
+    {
+      "symbol": "USDTNGN",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "USDTRUB",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "USDTTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "USDTUAH",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "USTCBUSD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "USTCUSDT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "UTKBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "UTKBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "UTKUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "VETBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "VETBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "VETBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VETETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "VETEUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VETGBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VETTRY",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "VETUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VGXUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "VIBBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "VIBBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VIBETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "VIBUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VIDTBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "VIDTBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VIDTUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VITEBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "VITEBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VITEUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "VOXELBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "VOXELBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "VOXELBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "VOXELUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "VTHOUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "WANBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "WANETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WANUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WAVESBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "WAVESBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WAVESBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "WAVESETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "WAVESEUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "WAVESTRY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "WAVESUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "WAXPBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WAXPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "WAXPBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WAXPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WBTCBTC",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WBTCBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "WBTCETH",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "WINBNB",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "WINBRL",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "WINBUSD",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WINEUR",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WINGBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WINGBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "WINGUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "WINTRX",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "WINUSDT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WNXMUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "WOOBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "WOOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "WOOBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WOOUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WRXBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "WRXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "WRXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WRXUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WTCBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "WTCUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XECBUSD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XECUSDT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XEMUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XLMBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XLMBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XLMBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XLMETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XLMEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XLMTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XLMUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XMRBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XMRBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XMRBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XMRETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XMRUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XNOBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XNOBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XNOUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XRPAUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XRPBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "XRPBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XRPBRL",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XRPBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XRPBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XRPDOWNUSDT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XRPETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XRPEUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XRPGBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XRPRUB",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XRPTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XRPTUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XRPUPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XRPUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XTZBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XTZBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XTZBUSD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XTZETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XTZTRY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XTZUSDT",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XVGBUSD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XVGETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XVGUSDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XVSBNB",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XVSBTC",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XVSBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XVSUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "YFIBTC",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "YFIBUSD",
+      "tickSize": 1
+    },
+    {
+      "symbol": "YFIEUR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "YFIIUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "YFIUSDT",
+      "tickSize": 1
+    },
+    {
+      "symbol": "YGGBNB",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "YGGBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "YGGBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "YGGUSDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ZECBNB",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ZECBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ZECBUSD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ZECETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ZECUSDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ZENBTC",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ZENBUSD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ZENETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ZENUSDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ZILBIDR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "ZILBNB",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ZILBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ZILBUSD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ZILETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ZILTRY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ZILUSDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ZRXBTC",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ZRXBUSD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ZRXETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ZRXUSDT",
+      "tickSize": 0.0001
+    }
+  ],
+  "Kraken": [
+    {
+      "symbol": "1INCH/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "1INCH/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AAVE/ETH",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AAVE/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AAVE/GBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AAVE/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AAVE/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ACA/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ACA/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ACH/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ACH/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ADA/AUD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ADA/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ADA/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ADA/GBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ADA/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ADA/USDT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ADA/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ADX/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ADX/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AGLD/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AGLD/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AIR/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AIR/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AKT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AKT/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ALCX/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ALCX/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ALGO/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ALGO/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ALGO/GBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ALGO/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ALGO/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ALGO/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ALICE/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ALICE/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ALPHA/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ALPHA/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ANKR/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ANKR/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ANKR/XBT",
+      "tickSize": 1e-9
+    },
+    {
+      "symbol": "ANT/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ANT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ANT/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ANT/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "APE/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "APE/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "APE/USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "API3/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "API3/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "APT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "APT/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARB/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARB/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ARPA/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ARPA/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ASTR/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ASTR/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATLAS/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ATLAS/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ATOM/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ATOM/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATOM/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATOM/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATOM/USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ATOM/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "AUD/JPY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AUD/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "AUDIO/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AUDIO/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "AVAX/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AVAX/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AVAX/USDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "AXS/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "AXS/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BADGER/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BADGER/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BAL/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BAL/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BAL/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "BAND/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BAND/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BAT/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BAT/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BAT/JPY",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BAT/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BAT/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BCH/AUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BCH/ETH",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BCH/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BCH/GBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BCH/JPY",
+      "tickSize": 1
+    },
+    {
+      "symbol": "BCH/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BCH/USDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "BCH/XBT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BICO/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BICO/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BIT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BIT/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BLUR/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BLUR/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BLZ/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BLZ/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "BNC/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BNC/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BNT/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BNT/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BNT/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BOBA/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BOBA/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "BOND/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BOND/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "BSX/EUR",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BSX/USD",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "BTT/EUR",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "BTT/USD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "C98/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "C98/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CELR/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CELR/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CFG/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CFG/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHR/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHR/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHZ/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CHZ/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "COMP/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "COMP/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "COMP/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "COTI/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "COTI/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CQT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CQT/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CRV/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CRV/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CRV/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "CRV/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "CSM/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CSM/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "CTSI/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CTSI/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CVC/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CVC/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "CVX/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "CVX/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "DAI/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DAI/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DAI/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "DASH/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DASH/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DASH/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DENT/EUR",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "DENT/USD",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "DOT/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "DOT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DOT/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DOT/JPY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "DOT/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DOT/USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "DOT/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "DYDX/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "DYDX/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EGLD/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "EGLD/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ENJ/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ENJ/GBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ENJ/JPY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "ENJ/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ENJ/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "ENS/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ENS/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "EOS/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "EOS/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "EOS/USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "EOS/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ETC/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ETC/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ETH/AUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/CAD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/CHF",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/DAI",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ETH/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/GBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/JPY",
+      "tickSize": 1
+    },
+    {
+      "symbol": "ETH/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/USDC",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/USDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ETH/XBT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ETH2.S/ETH",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ETHW/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "ETHW/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ETHW/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EUL/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EUL/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EUR/AUD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "EUR/CAD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "EUR/CHF",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "EUR/GBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "EUR/JPY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EUR/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "EWT/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EWT/GBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EWT/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "EWT/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "FARM/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "FARM/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "FET/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FET/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FIDA/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FIDA/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FIL/ETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "FIL/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FIL/GBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FIL/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FIL/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "FIS/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FIS/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FLOW/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "FLOW/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FLOW/GBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FLOW/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FLOW/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "FLR/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "FLR/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "FORTH/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FORTH/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FTM/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FTM/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "FXS/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "FXS/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GAL/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GAL/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GALA/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GALA/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GARI/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GARI/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GBP/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GHST/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GHST/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "GHST/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GLMR/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GLMR/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GMT/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GMT/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GMX/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GMX/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GNO/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GNO/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "GNO/XBT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GRT/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GRT/GBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GRT/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "GRT/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "GST/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GST/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GTC/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "GTC/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "HDX/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HDX/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HFT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "HFT/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ICP/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ICP/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ICX/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "ICX/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ICX/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ICX/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "IDEX/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IDEX/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "IMX/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "IMX/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "INJ/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "INJ/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "INTR/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "INTR/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "JASMY/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "JASMY/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "JUNO/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "JUNO/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KAR/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KAR/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KAVA/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KAVA/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KAVA/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KAVA/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KEEP/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KEY/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KEY/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KILT/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KILT/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "KIN/EUR",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KIN/USD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KINT/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KINT/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KNC/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "KNC/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KNC/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "KNC/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "KP3R/EUR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "KP3R/USD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "KSM/DOT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KSM/ETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "KSM/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KSM/GBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KSM/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "KSM/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LCX/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LCX/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LDO/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LDO/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINK/AUD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINK/ETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LINK/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LINK/GBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "LINK/JPY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "LINK/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LINK/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LINK/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LPT/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LPT/GBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LPT/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LPT/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "LRC/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LRC/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "LSK/ETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LSK/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LSK/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LSK/XBT",
+      "tickSize": 1e-9
+    },
+    {
+      "symbol": "LTC/AUD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTC/ETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LTC/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTC/GBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LTC/JPY",
+      "tickSize": 1
+    },
+    {
+      "symbol": "LTC/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "LTC/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LTC/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "LUNA/EUR",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LUNA/USD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "LUNA2/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "LUNA2/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MANA/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "MANA/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MANA/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MANA/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MANA/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MASK/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MASK/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MATIC/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATIC/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATIC/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATIC/USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MATIC/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "MC/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MC/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MINA/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MINA/GBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MINA/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MINA/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "MIR/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MIR/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MKR/EUR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "MKR/USD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "MKR/XBT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MLN/ETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MLN/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MLN/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MLN/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "MNGO/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MNGO/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MOVR/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MOVR/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MSOL/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MSOL/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "MULTI/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MULTI/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "MV/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MV/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "MXC/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "MXC/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "NANO/ETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "NANO/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NANO/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NANO/XBT",
+      "tickSize": 1e-9
+    },
+    {
+      "symbol": "NEAR/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NEAR/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "NMR/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NMR/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "NODL/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NODL/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "NYM/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "NYM/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "NYM/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OCEAN/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OCEAN/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OCEAN/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OCEAN/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OGN/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OGN/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OMG/ETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OMG/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "OMG/JPY",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "OMG/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "OMG/XBT",
+      "tickSize": 1e-9
+    },
+    {
+      "symbol": "ORCA/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ORCA/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "OXT/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "OXT/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "OXT/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "OXY/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "OXY/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PARA/EUR",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "PARA/USD",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "PAXG/ETH",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "PAXG/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PAXG/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "PAXG/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "PERP/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "PERP/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "PHA/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PHA/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PLA/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PLA/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POLIS/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "POLIS/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "POLS/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POLS/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POND/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "POND/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "POWR/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "POWR/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PSTAKE/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "PSTAKE/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "QNT/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "QNT/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "QTUM/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "QTUM/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "QTUM/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "QTUM/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "RAD/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RAD/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RARE/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RARE/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RARI/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "RARI/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "RARI/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "RAY/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RAY/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RBC/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "RBC/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "REN/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "REN/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "REN/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "REP/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "REPV2/ETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "REPV2/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "REPV2/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "REPV2/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "REQ/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "REQ/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "RLC/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RLC/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RNDR/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "RNDR/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "ROOK/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ROOK/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "RPL/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "RPL/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "RUNE/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "RUNE/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SAMO/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SAMO/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SAND/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SAND/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SAND/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SAND/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SBR/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SBR/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SC/ETH",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SC/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SC/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SC/XBT",
+      "tickSize": 1e-10
+    },
+    {
+      "symbol": "SCRT/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SCRT/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SDN/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SDN/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SGB/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SGB/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SHIB/EUR",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SHIB/USD",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SHIB/USDT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "SNX/ETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "SNX/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SNX/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SNX/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SOL/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOL/GBP",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOL/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOL/USDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "SOL/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SPELL/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SPELL/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "SRM/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SRM/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SRM/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "STEP/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STEP/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STG/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STG/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STORJ/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "STORJ/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "STORJ/XBT",
+      "tickSize": 1e-9
+    },
+    {
+      "symbol": "STX/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "STX/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SUPER/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SUPER/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SUSHI/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SUSHI/GBP",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SUSHI/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "SUSHI/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "SYN/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "SYN/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "T/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "T/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TBTC/EUR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "TBTC/USD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "TBTC/XBT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TEER/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TEER/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TLM/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TLM/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TOKE/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TOKE/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "TRIBE/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TRIBE/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "TRU/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TRU/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TRX/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "TRX/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "TRX/XBT",
+      "tickSize": 1e-10
+    },
+    {
+      "symbol": "TVK/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "TVK/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "UMA/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UMA/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNFI/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNFI/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNI/ETH",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "UNI/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNI/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "UNI/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "USD/AED",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "USD/CAD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "USD/CHF",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "USD/JPY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "USDC/AUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDC/CAD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDC/CHF",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDC/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDC/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDC/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDC/USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDT/AUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDT/CAD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDT/CHF",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "USDT/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDT/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "USDT/JPY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "USDT/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "UST/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "UST/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "UST/USDC",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "UST/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "WAVES/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "WAVES/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WAVES/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WAVES/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "WAXL/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WAXL/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WBTC/EUR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "WBTC/USD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "WBTC/XBT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "WOO/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "WOO/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XBT/AUD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XBT/CAD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XBT/CHF",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XBT/DAI",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XBT/EUR",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XBT/GBP",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XBT/JPY",
+      "tickSize": 1
+    },
+    {
+      "symbol": "XBT/USD",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XBT/USDC",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XBT/USDT",
+      "tickSize": 0.1
+    },
+    {
+      "symbol": "XCN/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XCN/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XDG/EUR",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XDG/USD",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XDG/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XDG/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XLM/EUR",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XLM/GBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XLM/USD",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XLM/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XMR/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XMR/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XMR/USDT",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XMR/XBT",
+      "tickSize": 0.000001
+    },
+    {
+      "symbol": "XRP/AUD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XRP/CAD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XRP/ETH",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "XRP/EUR",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XRP/GBP",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XRP/JPY",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "XRP/USD",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XRP/USDT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "XRP/XBT",
+      "tickSize": 1e-8
+    },
+    {
+      "symbol": "XRT/EUR",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XRT/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "XTZ/AUD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XTZ/EUR",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XTZ/GBP",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XTZ/USD",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XTZ/USDT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "XTZ/XBT",
+      "tickSize": 1e-7
+    },
+    {
+      "symbol": "YFI/EUR",
+      "tickSize": 1
+    },
+    {
+      "symbol": "YFI/USD",
+      "tickSize": 1
+    },
+    {
+      "symbol": "YFI/XBT",
+      "tickSize": 0.0001
+    },
+    {
+      "symbol": "YGG/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "YGG/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ZEC/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ZEC/USD",
+      "tickSize": 0.01
+    },
+    {
+      "symbol": "ZEC/XBT",
+      "tickSize": 0.00001
+    },
+    {
+      "symbol": "ZRX/EUR",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ZRX/USD",
+      "tickSize": 0.001
+    },
+    {
+      "symbol": "ZRX/XBT",
+      "tickSize": 1e-8
+    }
+  ]
+}
